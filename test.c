@@ -1,6 +1,10 @@
 #include <stdio.h>
 int main(void)
 {
-    printf("Hellow World \n");
+<<<<<<< HEAD
+    printf("Hellow World  \n");
+=======
+    printf("Hellow World!!!!!!\n");
+>>>>>>> dev
     return 0;
 }
